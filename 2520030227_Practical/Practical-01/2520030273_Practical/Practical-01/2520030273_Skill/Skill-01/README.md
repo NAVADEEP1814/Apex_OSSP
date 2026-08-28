@@ -1,1 +1,0 @@
-# OSSP Skill 01
